@@ -1,2 +1,12 @@
-# Tipsy
-Tipsy App is a free platform for everybody. Furthermore, during the rating procedure, users can express more of appreciations by any amount of gratitude.
+💸 Tipsy - iOS bill split app
+Too drunk for maths after a happy hour? 🤑 Don't worry, we got you!
+📺 Demo
+
+
+🚀 Technologies
+This project was developed as a challenge in "iOS & Swift - The Complete iOS App Development Bootcamp", using the following technologies:
+
+- Swift
+- XCode
+The code was built using programming best practices and conforming to MVC (Model-View-Controller) design pattern.
+
