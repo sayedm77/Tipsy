@@ -8,5 +8,5 @@ This project was developed as a challenge in "iOS & Swift - The Complete iOS App
 
 - Swift
 - XCode
-The code was built using programming best practices and conforming to MVC (Model-View-Controller) design pattern.
+The code was built using programming best practices 
 
